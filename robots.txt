@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeosheaya.rmorabia.com/sitemap.xml
